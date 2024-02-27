@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miAddFriend"
+        android:title="addFriend" />
+    <item
+        android:id="@+id/deleteFriend"
+        android:title="Delate Friend" />
+    <item
+        android:id="@+id/miChangeLanguage"
+        android:title="Change Language" />
+</menu>

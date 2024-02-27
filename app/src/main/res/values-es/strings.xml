@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP08 UF1 Validation</string>
+    <string name="exit_button">Salir</string>
+    <string name="sum_of_ages">Suma de edades:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Borrar</string>
+    <string name="delete_friends_by_age">Borrar amigos por edad</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="age">Edad</string>
+    <string name="phone">Teléfono</string>
+    <string name="id">Id</string>
+</resources>
